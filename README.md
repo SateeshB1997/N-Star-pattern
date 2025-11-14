@@ -12,10 +12,10 @@ Example 1<br />
 Input<br />
 3<br /><br />
 Output<br />
-/_\*\*<br />
-/_<br />
-/_<br />
-/_<br />
+\***<br />
+\*<br />
+\*<br />
+\*<br />
 
 Exaplantion<br />
 
@@ -23,15 +23,14 @@ We print the 3 stars in horizontal and 3 stars vertical direction.<br /><br />
 
 Example 2<br />
 Input<br />
-
 5<br /><br />
 Output<br />
-/**\***<br />
-/_<br />
-/_<br />
-/_<br />
-/_<br />
-/\*<br />
+\*****<br />
+\*<br />
+\*<br />
+\*<br />
+\*<br />
+\*<br />
 Exaplantion<br />
 
 We print the 5 stars in horizontal and 5 stars vertical direction.<br /><br />
